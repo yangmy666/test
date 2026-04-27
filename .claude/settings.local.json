@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(gh api *)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(ls \"/c/Python\"*)",
+      "Read(//c/Users/yang/AppData/Local/Programs/**)",
+      "Read(//c/Program Files/**)",
+      "Bash(git clone *)",
+      "WebFetch(domain:github.com)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "WebFetch(domain:papers.ssrn.com)",
+      "WebFetch(domain:arxiv.org)",
+      "Bash(git mv *)",
+      "Bash(curl -s -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120.0.0.0 Safari/537.36\" \"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4416622\" -o /tmp/ssrn.html -L --max-time 30)",
+      "Read(//tmp/**)",
+      "WebFetch(domain:www.researchgate.net)",
+      "WebFetch(domain:ouci.dntb.gov.ua)"
+    ]
+  }
+}

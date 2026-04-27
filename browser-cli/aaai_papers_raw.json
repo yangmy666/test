@@ -1,0 +1,1206 @@
+{
+  "all": [
+    {
+      "title": "ECHO-GL: Earnings Calls-Driven Heterogeneous Graph Learning for Stock Movement Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29305",
+      "authors": "Mengpu Liu, Mengying Zhu, Xiuyuan Wang, Guofang Ma, Jianwei Yin, Xiaolin Zheng 13972-13980 2024-03-24",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "DHMoE: Diffusion Generated Hierarchical Multi-Granular Expertise for Stock Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33250",
+      "authors": "Weijun Chen, Yanze Wang 11490-11499 2025-04-11",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "Incorporating Expert-Based Investment Opinion Signals in Stock Prediction: A Deep Learning Framework",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5445",
+      "authors": "Heyuan Wang, Tengjiao Wang, Yi Li 971-978 2020-04-03",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5462",
+      "authors": "Yunan Ye, Hengzhi Pei, Boxin Wang, Pin-Yu Chen, Yada Zhu, Ju Xiao, Bo Li 1112-1119 2020-04-03",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "Burst Time Prediction in Cascades",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9157",
+      "authors": "Senzhang Wang, Zhao Yan, Xia Hu, Philip S. Yu, Zhoujun Li 2015-02-09",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "Online Search with Best-Price and Query-Based Predictions",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/21199",
+      "authors": "Spyros Angelopoulos, Shahin Kamali, Dehou Zhang 9652-9660 2022-06-28",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "MASTER: Market-Guided Stock Transformer for Stock Price Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/27767",
+      "authors": "Tong Li, Zhaoyang Liu, Yanyan Shen, Xue Wang, Haokun Chen, Sen Huang 162-170 2024-03-25",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28770",
+      "authors": "Hongjie Xia, Huijie Ao, Long Li, Yu Liu, Sen Liu, Guangnan Ye, Hongfeng Chai 9187-9195 2024-03-24",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29531",
+      "authors": "Haochong Xia , Shuo Sun, Xinrun Wang, Bo An 15996-16004 2024-03-24",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29381",
+      "authors": "Hao Qian, Hongting Zhou, Qian Zhao, Hao Chen, Hongxiang Yao, Jingwei Wang, Ziqi Liu, Fei Yu, Zhiqiang Zhang, Jun Zhou 14642-14650 2024-03-24",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "FactorGCL: A Hypergraph-Based Factor Model with Temporal Residual Contrastive Learning for Stock Returns Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/31993",
+      "authors": "Yitong Duan, Weiran Wang, Jian Li 173-181 2025-04-11",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Tensor-Based Learning for Predicting Stock Movements",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9452",
+      "authors": "Qing Li, LiLing Jiang, Ping Li, Hsinchun Chen 2015-02-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "MERL: Multimodal Event Representation Learning in Heterogeneous Embedding Spaces",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/17695",
+      "authors": "Linhai Zhang, Deyu Zhou, Yulan He, Zeng Yang 14420-14427 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16133",
+      "authors": "Zijian Shi, Yu Chen, John Cartlidge 548-556 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16144",
+      "authors": "Zhicheng Wang, Biwei Huang, Shikui Tu, Kun Zhang, Lei Xu 643-650 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "An Approach Towards Developing Relationally Intelligent Multimodal Framework for Stock Movement Prediction (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/42266",
+      "authors": "Manali Patel, Krupa Jariwala, Chiranjoy Chattopadhyay 41352-41353 2026-03-14",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Sequential Graph Attention Learning for Predicting Dynamic Stock Trends (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26982",
+      "authors": "Tzu-Ya Lai, Wen Jung Cheng, Jun-En Ding 16244-16245 2024-07-15",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Artificial Counselor System for Stock Investment",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5016",
+      "authors": "Hadi NekoeiQachkanloo, Benyamin Ghojogh, Ali Saheb Pasand, Mark Crowley 9558-9564 2019-07-17",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Generating Realistic Stock Market Order Streams",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5415",
+      "authors": "Junyi Li, Xintong Wang, Yaoyang Lin, Arunesh Sinha, Michael Wellman 727-734 2020-04-03",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Deep Portfolio Optimization via Distributional Prediction of Residual Factors",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16095",
+      "authors": "Kentaro Imajo, Kentaro Minami, Katsuya Ito, Kei Nakagawa 213-222 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Deep Modeling Complex Couplings within Financial Markets",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9559",
+      "authors": "Wei Cao, Liang Hu, Longbing Cao 2015-02-21",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Bidding in Smart Grid PDAs: Theory, Analysis and Strategy",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5568",
+      "authors": "Susobhan Ghosh, Sujit Gujar, Praveen Paruchuri, Easwar Subramanian, Sanjay Bhat 1974-1981 2020-04-03",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/20369",
+      "authors": "Yitong Duan, Lei Wang, Qizhong Zhang, Jian Li 4468-4476 2022-06-28",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "MetaTrader: Learning to Generalize RL Trading Policies Beyond Offline Data",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40027",
+      "authors": "Haochen Yuan, Minting Pan, Yunbo Wang, Siyu Gao, Xiaokang Yang 28023-28031 2026-03-14",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Optimal Execution via Multi-Objective Multi-Armed Bandits (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26945",
+      "authors": "Francois Buet-Golfouse, Peter Hill 16170-16171 2024-07-15",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16142",
+      "authors": "Rundong Wang, Hongxin Wei, Bo An, Zhouyan Feng, Jun Yao 626-633 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16077",
+      "authors": "Rui Cheng, Qing Li 55-62 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Partial Correlation-Based Attention for Multivariate Time Series Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7132",
+      "authors": "Won Kyung Lee 13720-13721 2020-04-03",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "ArchetypeTrader: Reinforcement Learning for Selecting and Refining Learnable Strategic Archetypes in Quantitative Trading",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40166",
+      "authors": "Chuqiao Zong, Molei Qin, Haochong Xia, Bo An 29269-29276 2026-03-14",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5587",
+      "authors": "Yang Liu, Qi Liu, Hongke Zhao, Zhen Pan, Chuanren Liu 2128-2135 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29384",
+      "authors": "Molei Qin, Shuo Sun, Wentao Zhang, Haochong Xia , Xinrun Wang, Bo An 14669-14676 2024-03-24",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Universal Trading for Order Execution with Oracle Policy Distillation",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16083",
+      "authors": "Yuchen Fang, Kan Ren, Weiqing Liu, Dong Zhou, Weinan Zhang, Jiang Bian, Yong Yu, Tie-Yan Liu 107-115 2021-05-18",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Logic-Q: Improving Deep Reinforcement Learning-based Quantitative Trading via Program Sketch-based Tuning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34045",
+      "authors": "Zhiming Li, Junzhe Jiang, Yushi Cao, Aixin Cui, Bozhi Wu, Bo Li, Yang Liu, Danny Dongning Sun 18584-18592 2025-04-11",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Shoreline: Data-Driven Threshold Estimation of Online Reserves of Cryptocurrency Trading Platforms",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5472",
+      "authors": "Xitong Zhang, He Zhu, Jiayu Zhou 1194-1201 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "An Interactive Simulation Framework by Ensemble Imitation Learning Agents for Training Robust Trading Policies",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/41493",
+      "authors": "Julian Zhong-Nan Zhang, Yang Yu 40487-40494 2026-03-14",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Shoreline: Data-Driven Threshold Estimation of Online Reserves of Cryptocurrency Trading Platforms (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7265",
+      "authors": "Xitong Zhang, He Zhu, Jiayu Zhou 13985-13986 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Non-excludable Bilateral Trade between Groups",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28857",
+      "authors": "Yixuan Even Xu, Hanrui Zhang, Vincent Conitzer 9952-9959 2024-03-24",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "MartDE: A Privacy-Preserving and Cost-Efficient Evaluation Framework for Data Marketplaces",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40889",
+      "authors": "Xinyuan Qian, Haoyong Wang, Hangcheng Cao, Shuai Yuan, Senkang Hu, Qingchuan Zhao, Hongwei Li, Guowen Xu 35759-35766 2026-03-14",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Strongly Budget Balanced Auctions for Multi-Sided Markets",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5571",
+      "authors": "Rica Gonen, Erel Segal-Halevi 1998-2005 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Selecting Portfolios Directly Using Recurrent Reinforcement Learning (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7201",
+      "authors": "Lin Li 13857-13858 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Accurate Fairness: Improving Individual Fairness without Trading Accuracy",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26674",
+      "authors": "Xuran Li, Peng Wu, Jing Su 14312-14320 2023-06-26",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Optimizing Trading Assignments in Water Right Markets",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10016",
+      "authors": "Yicheng Liu, Pingzhong Tang, Tingting Xu, Hang Zheng 2016-02-21",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Autonomous Electricity Trading Using Time-of-Use Tariffs in a Competitive Market",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10012",
+      "authors": "Daniel Urieli, Peter Stone 2016-02-21",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Transaction Costs-Aware Portfolio Optimization via Fast Lowner-John Ellipsoid Approximation",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9453",
+      "authors": "Weiwei Shen, Jun Wang 2015-02-18",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Autonomous Agents in Future Energy Markets: The 2012 Power Trading Agent Competition",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8479",
+      "authors": "Wolfgang Ketter, Markus Peters, John Collins 1298-1304 2013-06-29",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "TacTex'13: A Champion Adaptive Power Trading Agent",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8767",
+      "authors": "Daniel Urieli, Peter Stone 2014-06-20",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Doubly Regularized Portfolio with Risk Minimization",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8906",
+      "authors": "Weiwei Shen, Jun Wang, Shiqian Ma 2014-06-21",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Inferring Heterogeneous Private Valuations from Offline Market Data via Entropic Risk-Sensitive Utility Maximization",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38822",
+      "authors": "Xingyu Qian, Haoran Yu 17661-17669 2026-03-14",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Decentralized Convergence to Equilibrium Prices in Trading Networks",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33532",
+      "authors": "Edwin Lock, Benjamin Patrick Evans, Eleonora Kreacic, Sujay Bhatt, Alec Koppel, Sumitra Ganesh, Paul W. Goldberg 14002-14010 2025-04-11",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Generalization in Portfolio-Based Algorithm Selection",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/17451",
+      "authors": "Maria-Florina Balcan, Tuomas Sandholm, Ellen Vitercik 12225-12232 2021-05-18",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Portfolio Selection via Subset Resampling",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10728",
+      "authors": "Weiwei Shen, Jun Wang 2017-02-12",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "The Kelly Growth Optimal Portfolio with Ensemble Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/3906",
+      "authors": "Weiwei Shen, Bin Wang, Jian Pu, Jun Wang 1134-1141 2019-07-17",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Online Lazy Updates for Portfolio Selection with Transaction Costs",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8693",
+      "authors": "Puja Das, Nicholas Johnson, Arindam Banerjee 202-208 2013-06-30",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Online Portfolio Selection with Group Sparsity",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8907",
+      "authors": "Puja Das, Nicholas Johnson, Arindam Banerjee 2014-06-21",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Collaborative Expert Portfolio Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7561",
+      "authors": "David Stern, Horst Samulowitz, Ralf Herbrich, Thore Graepel, Luca Pulina, Armando Tacchella 179-184 2010-07-03",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Latent Class Models for Algorithm Portfolio Methods",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7546",
+      "authors": "Bryan Silverthorn, Risto Miikkulainen 167-172 2010-07-03",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Forecasting Asset Dependencies to Reduce Portfolio Risk",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/20361",
+      "authors": "Haoren Zhu, Shih-Yang Liu, Pengfei Zhao, Yingying Chen, Dik Lun Lee 4397-4404 2022-06-28",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "MARS: A Meta-Adaptive Reinforcement Learning Framework for Risk-Aware Multi-Agent Portfolio Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/39095",
+      "authors": "Jiayi Chen, Jing Li, Guiling Wang 20092-20099 2026-03-14",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Automatic Configuration of Sequential Planning Portfolios",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9640",
+      "authors": "Jendrik Seipp, Silvan Sievers, Malte Helmert, Frank Hutter 2015-03-04",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Algorithm Selection via Ranking",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9466",
+      "authors": "Richard Oentaryo, Stephanus Daniel Handoko, Hoong Chuin Lau 2015-02-18",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Reactive Dialectic Search Portfolios for MaxSAT",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10660",
+      "authors": "Carlos Ansótegui, Josep Pon, Meinolf Sellmann, Kevin Tierney 2017-02-12",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Index Tracking with Cardinality Constraints: A Stochastic Neural Networks Approach",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5478",
+      "authors": "Yu Zheng, Bowei Chen, Timothy M. Hospedales, Yongxin Yang 1242-1249 2020-04-03",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Deep Learning for Cost-Optimal Planning: Task-Dependent Planner Selection",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/4767",
+      "authors": "Silvan Sievers, Michael Katz, Shirin Sohrabi, Horst Samulowitz, Patrick Ferber 7715-7723 2019-07-17",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "PortfolioPilot: An Agentic Platform for Financial Portfolio Management Algorithm Development and Evaluation",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/42396",
+      "authors": "Jared Chan Xu Yang, Haokai Ma, Yunshan Ma 41730-41732 2026-03-14",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Augmented Lagrangian Risk-constrained Reinforcement Learning for Portfolio Optimization (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/35252",
+      "authors": "Bayaraa Enkhsaikhan, Ohyun Jo 29362-29364 2025-04-11",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Langevin Multiplicative Weights Update with Applications in Polynomial Portfolio Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33220",
+      "authors": "Yi Feng, Xiao Wang, Tian Xie 11221-11228 2025-04-11",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "From GARCH to Neural Network for Volatility Forecast",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29643",
+      "authors": "Pengfei Zhao, Haoren Zhu, Wilfred Siu Hung NG, Dik Lun Lee 16998-17006 2024-03-24",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "Symphony in the Latent Space: Provably Integrating High-Dimensional Techniques with Non-linear Machine Learning Models",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26233",
+      "authors": "Qiong Wu, Jian Li, Zhenming Liu, Yanhua Li, Mihai Cucuringu 10361-10369 2023-06-26",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "Exploring Hypergraph of Earnings Call for Risk Prediction (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26973",
+      "authors": "Yi He, Wenxin Tai, Fan Zhou, Yi Yang 16226-16227 2024-07-15",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25648",
+      "authors": "Shuqi Li, Weiheng Liao, Yuhan Chen, Rui Yan 5187-5194 2023-06-26",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "Predictive Agent-Based Modeling of Natural Disasters Using Machine Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/17984",
+      "authors": "Favour Nerrise 15976-15977 2021-05-18",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "Secure and Automated Enterprise Revenue Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/11385",
+      "authors": "Jocelyn Barker, Amita Gajewar, Konstantin Golyaev, Gagan Bansal, Matt Conners 2018-04-27",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "Interpreting Fedspeak with Confidence: A LLM-Based Uncertainty-Aware Framework Guided by Monetary Policy Transmission Paths",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40739",
+      "authors": "Rui Yao, Qi Chai, Jinhai Yao, Siyuan Li, Junhao Chen, Qi Zhang, Hao Wang 34414-34422 2026-03-14",
+      "matched_keyword": "algorithmic trading"
+    },
+    {
+      "title": "Adaptive Perturbation-Based Gradient Estimation for Discrete Latent Variable Models",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26103",
+      "authors": "Pasquale Minervini, Luca Franceschi, Mathias Niepert 9200-9208 2023-06-26",
+      "matched_keyword": "algorithmic trading"
+    },
+    {
+      "title": "Optimal Local Explainer Aggregation for Interpretable Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/21458",
+      "authors": "Qiaomei Li, Rachel Cummings, Yonatan Mintz 12000-12007 2022-06-28",
+      "matched_keyword": "algorithmic trading"
+    },
+    {
+      "title": "Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Alpha Factor Mining",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/37069",
+      "authors": "Yu Shi, Yitong Duan, Jian Li 997-1005 2026-03-14",
+      "matched_keyword": "quantitative trading"
+    },
+    {
+      "title": "NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-Task Financial Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/21414",
+      "authors": "Linyi Yang, Jiazheng Li, Ruihai Dong, Yue Zhang, Barry Smyth 11604-11612 2022-06-28",
+      "matched_keyword": "quantitative trading"
+    },
+    {
+      "title": "Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16127",
+      "authors": "Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Tyler Derr, Rajiv Ratn Shah 497-504 2021-05-18",
+      "matched_keyword": "quantitative trading"
+    },
+    {
+      "title": "Price Evolution in a Continuous Double Auction Prediction Market With a Scoring-Rule Based Market Maker",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9313",
+      "authors": "Mithun Chakraborty, Sanmay Das, Justin Peabody 2015-02-16",
+      "matched_keyword": "limit order book"
+    },
+    {
+      "title": "Tighter Robust Upper Bounds for Options via No-Regret Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25666",
+      "authors": "Shan Xue, Ye Du, Liang Xu 5348-5356 2023-06-26",
+      "matched_keyword": "asset pricing"
+    },
+    {
+      "title": "Less Is More: Volatility Forecasting with Contrastive Representation Learning (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26977",
+      "authors": "Yanlong Huang, Wenxin Tai, Ting Zhong, Kunpeng Zhang 16234-16235 2024-07-15",
+      "matched_keyword": "asset pricing"
+    },
+    {
+      "title": "Estimating the Days to Success of Campaigns in Crowdfunding: A Deep Survival Perspective",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/4295",
+      "authors": "Binbin Jin, Hongke Zhao, Enhong Chen, Qi Liu, Yong Ge 4023-4030 2019-07-17",
+      "matched_keyword": "price prediction"
+    },
+    {
+      "title": "A Real-Time Decision Support System for High Cost Oil-Well Drilling Operations",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/18959",
+      "authors": "Odd Erik Gundersen, Frode Sørmo, Agnar Aamod, Pål Skalle 2209-2216 2012-07-22",
+      "matched_keyword": "price prediction"
+    },
+    {
+      "title": "Improving Lives of Indebted Farmers Using Deep Learning: Predicting Agricultural Produce Prices Using Convolutional Neural Networks",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7039",
+      "authors": "Hangzhi Guo, Alexander Woodruff, Amulya Yadav 13294-13299 2020-04-03",
+      "matched_keyword": "price prediction"
+    },
+    {
+      "title": "Predicting Fuel Consumption and Flight Delays for Low-Cost Airlines",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/19095",
+      "authors": "Yuji Horiguchi, Yukino Baba, Hisashi Kashima, Masahito Suzuki, Hiroki Kayahara, Jun Maeno 4686-4693 2017-02-11",
+      "matched_keyword": "price prediction"
+    },
+    {
+      "title": "Recurrent Poisson Process Unit for Speech Recognition",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/4620",
+      "authors": "Hengguan Huang, Hao Wang, Brian Mak 6538-6545 2019-07-17",
+      "matched_keyword": "financial time series"
+    },
+    {
+      "title": "TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33989",
+      "authors": "Geon Lee, Wenchao Yu, Kijung Shin, Wei Cheng, Haifeng Chen 18082-18090 2025-04-11",
+      "matched_keyword": "financial time series"
+    },
+    {
+      "title": "Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34164",
+      "authors": "Reza Nematirad, Anil Pahwa, Balasubramaniam Natarajan 19651-19658 2025-04-11",
+      "matched_keyword": "financial time series"
+    },
+    {
+      "title": "WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34156",
+      "authors": "Md Mahmuddun Nabi Murad, Mehmet Aktukmak, Yasin Yilmaz 19581-19588 2025-04-11",
+      "matched_keyword": "financial time series"
+    },
+    {
+      "title": "U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29337",
+      "authors": "Xiang Ma, Xuemei Li, Lexin Fang, Tianlong Zhao, Caiming Zhang 14255-14262 2024-03-24",
+      "matched_keyword": "financial time series"
+    },
+    {
+      "title": "Transfer Learning in Financial Time Series with Gramian Angular Field (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/35272",
+      "authors": "Hou-Wan Long, On-In Ho, Qi-Qiao He, Yain-Whar Si 29418-29420 2025-04-11",
+      "matched_keyword": "financial time series"
+    },
+    {
+      "title": "AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33365",
+      "authors": "Hao Shi, Weili Song, Xinting Zhang, Jiahe Shi, Cuicui Luo, Xiang Ao, Hamid Arian, Luis Angel Seco 12524-12532 2025-04-11",
+      "matched_keyword": "alpha factor"
+    },
+    {
+      "title": "Equilibria in Epidemic Containment Games",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8819",
+      "authors": "Sudip Saha, Abhijin Adiga, Anil Vullikanti 2014-06-21",
+      "matched_keyword": "alpha factor"
+    },
+    {
+      "title": "Proportional Representation in Metric Spaces and Low-Distortion Committee Selection",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28841",
+      "authors": "Yusuf Kalayci, David Kempe, Vikram Kher 9815-9823 2024-03-24",
+      "matched_keyword": "alpha factor"
+    },
+    {
+      "title": "Adaptive Merchant-Centric Risk Control via Unbiased Decision-Making and Dynamic Optimization in E-Commerce",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/35142",
+      "authors": "Xu Liu, Yiqiang Lu, Jian Liu, Tianyi Zhang, Weiqiang Wang, Qian Liu, Shuai Li 28783-28791 2025-04-11",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Risk-Conditioned Reinforcement Learning: A Generalized Approach for Adapting to Varying Risk Measures",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29589",
+      "authors": "Gwangpyo Yoo, Jinwoo Park, Honguk Woo 16513-16521 2024-03-24",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Multiagent Decision Making For Maritime Traffic Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/4575",
+      "authors": "Arambam James Singh, Duc Thien Nguyen, Akshat Kumar, Hoong Chuin Lau 6171-6178 2019-07-17",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Constrained Offline Black-Box Optimization via Risk Evaluation and Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34470",
+      "authors": "Yiyi Zhu, Huakang Lu, Yupeng Wu, Shuo Liu, Jing-Wen Yang, Hong Qian 23063-23071 2025-04-11",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Efficient Non-Oblivious Randomized Reduction for Risk Minimization with Improved Excess Risk Guarantee",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10845",
+      "authors": "Yi Xu, Haiqin Yang, Lijun Zhang, Tianbao Yang 2017-02-13",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Feature Isolation for Hypothesis Testing in Retinal Imaging: An Ischemic Stroke Prediction Case Study",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5008",
+      "authors": "Gilbert Lim, Zhan Wei Lim, Dejiang Xu, Daniel S.W. Ting, Tien Yin Wong, Mong Li Lee, Wynne Hsu 9510-9515 2019-07-17",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Reward Penalties on Augmented States for Solving Richly Constrained RL Effectively",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29962",
+      "authors": "Hao Jiang, Tien Mai, Pradeep Varakantham, Huy Hoang 19867-19875 2024-03-24",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "An AI Planning Solution to Scenario Generation for Enterprise Risk Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/11304",
+      "authors": "Shirin Sohrabi, Anton Riabov, Michael Katz, Octavian Udrea 2018-04-25",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Understanding the Generalization Performance of Spectral Clustering Algorithms",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26037",
+      "authors": "Shaojie Li, Sheng Ouyang, Yong Liu 8614-8621 2023-06-26",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Risk Based Optimization for Improving Emergency Medical Systems",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9238",
+      "authors": "Sandhya Saisubramanian, Pradeep Varakantham, Hoong Chuin Lau 2015-02-10",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Solving Online Threat Screening Games using Constrained Action Space Reinforcement Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5599",
+      "authors": "Shah Sanket, Arunesh Sinha, Pradeep Varakantham, Andrew Perrault, Milind Tambe 2226-2235 2020-04-03",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Learning Deep Representation from Big and Heterogeneous Data for Traffic Accident Inference",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10011",
+      "authors": "Quanjun Chen, Xuan Song, Harutoshi Yamada, Ryosuke Shibasaki 2016-02-21",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Risk-Aware Planning: Methods and Case Study on Safe Driving Route",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/19099",
+      "authors": "John Krumm, Eric Horvitz 4708-4714 2017-02-11",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Memory-Gated Recurrent Networks",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/17308",
+      "authors": "Yaquan Zhang, Qi Wu, Nanbo Peng, Min Dai, Jing Zhang, Hu Wang 10956-10963 2021-05-18",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "ConstructAI: From Real-Time Safety Insight to Skill Growth in Deployed Construction AI Systems",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/41452",
+      "authors": "Gaowei Zhang, Wei Wang, Tiong Lee Kong, Kai Xing, Huan Li, Yi Wang 40167-40175 2026-03-14",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "An Autonomous Override System to Prevent Airborne Loss of Control",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/19074",
+      "authors": "Sweewarman Balachandran, Ella M. Atkins 3991-3996 2016-02-18",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Generalized Batch Normalization: Towards Accelerating Deep Neural Networks",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/3985",
+      "authors": "Xiaoyong Yuan, Zheng Feng, Matthew Norton, Xiaolin Li 1682-1689 2019-07-17",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Generalization Analysis for Deep Contrastive Representation Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33889",
+      "authors": "Nong Minh Hieu, Antoine Ledent, Yunwen Lei, Cheng Yeaw Ku 17186-17194 2025-04-11",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Handling Long and Richly Constrained Tasks through Constrained Hierarchical Reinforcement Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/30132",
+      "authors": "Yuxiao Lu, Arunesh Sinha, Pradeep Varakantham 21368-21377 2024-03-24",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "HEAL: A Knowledge Graph for Distress Management Conversations",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/21398",
+      "authors": "Anuradha Welivita, Pearl Pu 11459-11467 2022-06-28",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Policies to Optimize Work Performance and Thermal Safety in Exercising Humans",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/18990",
+      "authors": "Mark Buller, Eric Sodomka, William Tharion, Cynthia Clements, Reed Hoyt, Odest Chadwicke Jenkins 1501-1506 2013-07-14",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Unified Locally Linear Classifiers With Diversity-Promoting Anchor Points",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/11896",
+      "authors": "Chenghao Liu, Teng Zhang, Peilin Zhao, Jianling Sun, Steven Hoi 2018-04-26",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Exploring the Contribution of Unlabeled Data in Financial Sentiment Analysis",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8459",
+      "authors": "Jimmy Ren, Wei Wang, Jiawei Wang, Stephen Liao 1149-1155 2013-06-29",
+      "matched_keyword": "financial sentiment"
+    },
+    {
+      "title": "FRIDAYS: A Financial Risk Information Detecting and Analyzing System",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5064",
+      "authors": "Chi-Han Du, Yi-Shyuan Chiang, Kun-Che Tsai, Liang-Chih Liu, Ming-Feng Tsai, Chuan-Ju Wang 9853-9854 2019-07-17",
+      "matched_keyword": "financial sentiment"
+    },
+    {
+      "title": "Data-Driven Ranking and Visualization of Products by Competitiveness",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7107",
+      "authors": "Sheema Usmani, Mariana Bernagozzi, Yufeng Huang, Michelle Morales, Amir Sabet Sarvestani, Biplav Srivastava 13640-13641 2020-04-03",
+      "matched_keyword": "financial sentiment"
+    },
+    {
+      "title": "Semantics-Preserving Adversarial Attacks on Event-Driven Stock Prediction Models",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/41099",
+      "authors": "Aofan Liu, Haoxuan Li, Hongjian Xing, Yuguo Yin, Zijun Li, Yiyan Qi 37645-37653 2026-03-14",
+      "matched_keyword": "FinBERT"
+    }
+  ],
+  "filtered": [
+    {
+      "title": "ECHO-GL: Earnings Calls-Driven Heterogeneous Graph Learning for Stock Movement Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29305",
+      "authors": "Mengpu Liu, Mengying Zhu, Xiuyuan Wang, Guofang Ma, Jianwei Yin, Xiaolin Zheng 13972-13980 2024-03-24",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "DHMoE: Diffusion Generated Hierarchical Multi-Granular Expertise for Stock Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33250",
+      "authors": "Weijun Chen, Yanze Wang 11490-11499 2025-04-11",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "Incorporating Expert-Based Investment Opinion Signals in Stock Prediction: A Deep Learning Framework",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5445",
+      "authors": "Heyuan Wang, Tengjiao Wang, Yi Li 971-978 2020-04-03",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5462",
+      "authors": "Yunan Ye, Hengzhi Pei, Boxin Wang, Pin-Yu Chen, Yada Zhu, Ju Xiao, Bo Li 1112-1119 2020-04-03",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "Online Search with Best-Price and Query-Based Predictions",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/21199",
+      "authors": "Spyros Angelopoulos, Shahin Kamali, Dehou Zhang 9652-9660 2022-06-28",
+      "matched_keyword": "stock prediction"
+    },
+    {
+      "title": "MASTER: Market-Guided Stock Transformer for Stock Price Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/27767",
+      "authors": "Tong Li, Zhaoyang Liu, Yanyan Shen, Xue Wang, Haokun Chen, Sen Huang 162-170 2024-03-25",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "CI-STHPAN: Pre-trained Attention Network for Stock Selection with Channel-Independent Spatio-Temporal Hypergraph",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28770",
+      "authors": "Hongjie Xia, Huijie Ao, Long Li, Yu Liu, Sen Liu, Guangnan Ye, Hongfeng Chai 9187-9195 2024-03-24",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Market-GAN: Adding Control to Financial Market Data Generation with Semantic Context",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29531",
+      "authors": "Haochong Xia , Shuo Sun, Xinrun Wang, Bo An 15996-16004 2024-03-24",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29381",
+      "authors": "Hao Qian, Hongting Zhou, Qian Zhao, Hao Chen, Hongxiang Yao, Jingwei Wang, Ziqi Liu, Fei Yu, Zhiqiang Zhang, Jun Zhou 14642-14650 2024-03-24",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "FactorGCL: A Hypergraph-Based Factor Model with Temporal Residual Contrastive Learning for Stock Returns Prediction",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/31993",
+      "authors": "Yitong Duan, Weiran Wang, Jian Li 173-181 2025-04-11",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Tensor-Based Learning for Predicting Stock Movements",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9452",
+      "authors": "Qing Li, LiLing Jiang, Ping Li, Hsinchun Chen 2015-02-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16133",
+      "authors": "Zijian Shi, Yu Chen, John Cartlidge 548-556 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "DeepTrader: A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16144",
+      "authors": "Zhicheng Wang, Biwei Huang, Shikui Tu, Kun Zhang, Lei Xu 643-650 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "An Approach Towards Developing Relationally Intelligent Multimodal Framework for Stock Movement Prediction (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/42266",
+      "authors": "Manali Patel, Krupa Jariwala, Chiranjoy Chattopadhyay 41352-41353 2026-03-14",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Sequential Graph Attention Learning for Predicting Dynamic Stock Trends (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26982",
+      "authors": "Tzu-Ya Lai, Wen Jung Cheng, Jun-En Ding 16244-16245 2024-07-15",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Artificial Counselor System for Stock Investment",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5016",
+      "authors": "Hadi NekoeiQachkanloo, Benyamin Ghojogh, Ali Saheb Pasand, Mark Crowley 9558-9564 2019-07-17",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Generating Realistic Stock Market Order Streams",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5415",
+      "authors": "Junyi Li, Xintong Wang, Yaoyang Lin, Arunesh Sinha, Michael Wellman 727-734 2020-04-03",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Deep Portfolio Optimization via Distributional Prediction of Residual Factors",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16095",
+      "authors": "Kentaro Imajo, Kentaro Minami, Katsuya Ito, Kei Nakagawa 213-222 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Deep Modeling Complex Couplings within Financial Markets",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9559",
+      "authors": "Wei Cao, Liang Hu, Longbing Cao 2015-02-21",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/20369",
+      "authors": "Yitong Duan, Lei Wang, Qizhong Zhang, Jian Li 4468-4476 2022-06-28",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "MetaTrader: Learning to Generalize RL Trading Policies Beyond Offline Data",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40027",
+      "authors": "Haochen Yuan, Minting Pan, Yunbo Wang, Siyu Gao, Xiaokang Yang 28023-28031 2026-03-14",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Commission Fee is not Enough: A Hierarchical Reinforced Framework for Portfolio Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16142",
+      "authors": "Rundong Wang, Hongxin Wei, Bo An, Zhouyan Feng, Jun Yao 626-633 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16077",
+      "authors": "Rui Cheng, Qing Li 55-62 2021-05-18",
+      "matched_keyword": "stock market"
+    },
+    {
+      "title": "ArchetypeTrader: Reinforcement Learning for Selecting and Refining Learnable Strategic Archetypes in Quantitative Trading",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40166",
+      "authors": "Chuqiao Zong, Molei Qin, Haochong Xia, Bo An 29269-29276 2026-03-14",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Adaptive Quantitative Trading: An Imitative Deep Reinforcement Learning Approach",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5587",
+      "authors": "Yang Liu, Qi Liu, Hongke Zhao, Zhen Pan, Chuanren Liu 2128-2135 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29384",
+      "authors": "Molei Qin, Shuo Sun, Wentao Zhang, Haochong Xia , Xinrun Wang, Bo An 14669-14676 2024-03-24",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Universal Trading for Order Execution with Oracle Policy Distillation",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16083",
+      "authors": "Yuchen Fang, Kan Ren, Weiqing Liu, Dong Zhou, Weinan Zhang, Jiang Bian, Yong Yu, Tie-Yan Liu 107-115 2021-05-18",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Logic-Q: Improving Deep Reinforcement Learning-based Quantitative Trading via Program Sketch-based Tuning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34045",
+      "authors": "Zhiming Li, Junzhe Jiang, Yushi Cao, Aixin Cui, Bozhi Wu, Bo Li, Yang Liu, Danny Dongning Sun 18584-18592 2025-04-11",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Shoreline: Data-Driven Threshold Estimation of Online Reserves of Cryptocurrency Trading Platforms",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5472",
+      "authors": "Xitong Zhang, He Zhu, Jiayu Zhou 1194-1201 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "An Interactive Simulation Framework by Ensemble Imitation Learning Agents for Training Robust Trading Policies",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/41493",
+      "authors": "Julian Zhong-Nan Zhang, Yang Yu 40487-40494 2026-03-14",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Shoreline: Data-Driven Threshold Estimation of Online Reserves of Cryptocurrency Trading Platforms (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7265",
+      "authors": "Xitong Zhang, He Zhu, Jiayu Zhou 13985-13986 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "MartDE: A Privacy-Preserving and Cost-Efficient Evaluation Framework for Data Marketplaces",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40889",
+      "authors": "Xinyuan Qian, Haoyong Wang, Hangcheng Cao, Shuai Yuan, Senkang Hu, Qingchuan Zhao, Hongwei Li, Guowen Xu 35759-35766 2026-03-14",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Strongly Budget Balanced Auctions for Multi-Sided Markets",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5571",
+      "authors": "Rica Gonen, Erel Segal-Halevi 1998-2005 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Selecting Portfolios Directly Using Recurrent Reinforcement Learning (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7201",
+      "authors": "Lin Li 13857-13858 2020-04-03",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Accurate Fairness: Improving Individual Fairness without Trading Accuracy",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26674",
+      "authors": "Xuran Li, Peng Wu, Jing Su 14312-14320 2023-06-26",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Optimizing Trading Assignments in Water Right Markets",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10016",
+      "authors": "Yicheng Liu, Pingzhong Tang, Tingting Xu, Hang Zheng 2016-02-21",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Autonomous Electricity Trading Using Time-of-Use Tariffs in a Competitive Market",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10012",
+      "authors": "Daniel Urieli, Peter Stone 2016-02-21",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Transaction Costs-Aware Portfolio Optimization via Fast Lowner-John Ellipsoid Approximation",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9453",
+      "authors": "Weiwei Shen, Jun Wang 2015-02-18",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Autonomous Agents in Future Energy Markets: The 2012 Power Trading Agent Competition",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8479",
+      "authors": "Wolfgang Ketter, Markus Peters, John Collins 1298-1304 2013-06-29",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "TacTex'13: A Champion Adaptive Power Trading Agent",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8767",
+      "authors": "Daniel Urieli, Peter Stone 2014-06-20",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Doubly Regularized Portfolio with Risk Minimization",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8906",
+      "authors": "Weiwei Shen, Jun Wang, Shiqian Ma 2014-06-21",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Inferring Heterogeneous Private Valuations from Offline Market Data via Entropic Risk-Sensitive Utility Maximization",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38822",
+      "authors": "Xingyu Qian, Haoran Yu 17661-17669 2026-03-14",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Decentralized Convergence to Equilibrium Prices in Trading Networks",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33532",
+      "authors": "Edwin Lock, Benjamin Patrick Evans, Eleonora Kreacic, Sujay Bhatt, Alec Koppel, Sumitra Ganesh, Paul W. Goldberg 14002-14010 2025-04-11",
+      "matched_keyword": "trading"
+    },
+    {
+      "title": "Generalization in Portfolio-Based Algorithm Selection",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/17451",
+      "authors": "Maria-Florina Balcan, Tuomas Sandholm, Ellen Vitercik 12225-12232 2021-05-18",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Portfolio Selection via Subset Resampling",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10728",
+      "authors": "Weiwei Shen, Jun Wang 2017-02-12",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "The Kelly Growth Optimal Portfolio with Ensemble Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/3906",
+      "authors": "Weiwei Shen, Bin Wang, Jian Pu, Jun Wang 1134-1141 2019-07-17",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Online Lazy Updates for Portfolio Selection with Transaction Costs",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8693",
+      "authors": "Puja Das, Nicholas Johnson, Arindam Banerjee 202-208 2013-06-30",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Online Portfolio Selection with Group Sparsity",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8907",
+      "authors": "Puja Das, Nicholas Johnson, Arindam Banerjee 2014-06-21",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Collaborative Expert Portfolio Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7561",
+      "authors": "David Stern, Horst Samulowitz, Ralf Herbrich, Thore Graepel, Luca Pulina, Armando Tacchella 179-184 2010-07-03",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Latent Class Models for Algorithm Portfolio Methods",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7546",
+      "authors": "Bryan Silverthorn, Risto Miikkulainen 167-172 2010-07-03",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Forecasting Asset Dependencies to Reduce Portfolio Risk",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/20361",
+      "authors": "Haoren Zhu, Shih-Yang Liu, Pengfei Zhao, Yingying Chen, Dik Lun Lee 4397-4404 2022-06-28",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "MARS: A Meta-Adaptive Reinforcement Learning Framework for Risk-Aware Multi-Agent Portfolio Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/39095",
+      "authors": "Jiayi Chen, Jing Li, Guiling Wang 20092-20099 2026-03-14",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Automatic Configuration of Sequential Planning Portfolios",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9640",
+      "authors": "Jendrik Seipp, Silvan Sievers, Malte Helmert, Frank Hutter 2015-03-04",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Reactive Dialectic Search Portfolios for MaxSAT",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10660",
+      "authors": "Carlos Ansótegui, Josep Pon, Meinolf Sellmann, Kevin Tierney 2017-02-12",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "PortfolioPilot: An Agentic Platform for Financial Portfolio Management Algorithm Development and Evaluation",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/42396",
+      "authors": "Jared Chan Xu Yang, Haokai Ma, Yunshan Ma 41730-41732 2026-03-14",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Augmented Lagrangian Risk-constrained Reinforcement Learning for Portfolio Optimization (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/35252",
+      "authors": "Bayaraa Enkhsaikhan, Ohyun Jo 29362-29364 2025-04-11",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "Langevin Multiplicative Weights Update with Applications in Polynomial Portfolio Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33220",
+      "authors": "Yi Feng, Xiao Wang, Tian Xie 11221-11228 2025-04-11",
+      "matched_keyword": "portfolio"
+    },
+    {
+      "title": "From GARCH to Neural Network for Volatility Forecast",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29643",
+      "authors": "Pengfei Zhao, Haoren Zhu, Wilfred Siu Hung NG, Dik Lun Lee 16998-17006 2024-03-24",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "Exploring Hypergraph of Earnings Call for Risk Prediction (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26973",
+      "authors": "Yi He, Wenxin Tai, Fan Zhou, Yi Yang 16226-16227 2024-07-15",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25648",
+      "authors": "Shuqi Li, Weiheng Liao, Yuhan Chen, Rui Yan 5187-5194 2023-06-26",
+      "matched_keyword": "financial forecast"
+    },
+    {
+      "title": "Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Alpha Factor Mining",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/37069",
+      "authors": "Yu Shi, Yitong Duan, Jian Li 997-1005 2026-03-14",
+      "matched_keyword": "quantitative trading"
+    },
+    {
+      "title": "NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-Task Financial Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/21414",
+      "authors": "Linyi Yang, Jiazheng Li, Ruihai Dong, Yue Zhang, Barry Smyth 11604-11612 2022-06-28",
+      "matched_keyword": "quantitative trading"
+    },
+    {
+      "title": "Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/16127",
+      "authors": "Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Tyler Derr, Rajiv Ratn Shah 497-504 2021-05-18",
+      "matched_keyword": "quantitative trading"
+    },
+    {
+      "title": "Price Evolution in a Continuous Double Auction Prediction Market With a Scoring-Rule Based Market Maker",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9313",
+      "authors": "Mithun Chakraborty, Sanmay Das, Justin Peabody 2015-02-16",
+      "matched_keyword": "limit order book"
+    },
+    {
+      "title": "Tighter Robust Upper Bounds for Options via No-Regret Learning",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25666",
+      "authors": "Shan Xue, Ye Du, Liang Xu 5348-5356 2023-06-26",
+      "matched_keyword": "asset pricing"
+    },
+    {
+      "title": "Less Is More: Volatility Forecasting with Contrastive Representation Learning (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/26977",
+      "authors": "Yanlong Huang, Wenxin Tai, Ting Zhong, Kunpeng Zhang 16234-16235 2024-07-15",
+      "matched_keyword": "asset pricing"
+    },
+    {
+      "title": "Improving Lives of Indebted Farmers Using Deep Learning: Predicting Agricultural Produce Prices Using Convolutional Neural Networks",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7039",
+      "authors": "Hangzhi Guo, Alexander Woodruff, Amulya Yadav 13294-13299 2020-04-03",
+      "matched_keyword": "price prediction"
+    },
+    {
+      "title": "Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34164",
+      "authors": "Reza Nematirad, Anil Pahwa, Balasubramaniam Natarajan 19651-19658 2025-04-11",
+      "matched_keyword": "financial time series"
+    },
+    {
+      "title": "Transfer Learning in Financial Time Series with Gramian Angular Field (Student Abstract)",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/35272",
+      "authors": "Hou-Wan Long, On-In Ho, Qi-Qiao He, Yain-Whar Si 29418-29420 2025-04-11",
+      "matched_keyword": "financial time series"
+    },
+    {
+      "title": "AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33365",
+      "authors": "Hao Shi, Weili Song, Xinting Zhang, Jiahe Shi, Cuicui Luo, Xiang Ao, Hamid Arian, Luis Angel Seco 12524-12532 2025-04-11",
+      "matched_keyword": "alpha factor"
+    },
+    {
+      "title": "Adaptive Merchant-Centric Risk Control via Unbiased Decision-Making and Dynamic Optimization in E-Commerce",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/35142",
+      "authors": "Xu Liu, Yiqiang Lu, Jian Liu, Tianyi Zhang, Weiqiang Wang, Qian Liu, Shuai Li 28783-28791 2025-04-11",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Risk-Conditioned Reinforcement Learning: A Generalized Approach for Adapting to Varying Risk Measures",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29589",
+      "authors": "Gwangpyo Yoo, Jinwoo Park, Honguk Woo 16513-16521 2024-03-24",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Constrained Offline Black-Box Optimization via Risk Evaluation and Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34470",
+      "authors": "Yiyi Zhu, Huakang Lu, Yupeng Wu, Shuo Liu, Jing-Wen Yang, Hong Qian 23063-23071 2025-04-11",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Efficient Non-Oblivious Randomized Reduction for Risk Minimization with Improved Excess Risk Guarantee",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/10845",
+      "authors": "Yi Xu, Haiqin Yang, Lijun Zhang, Tianbao Yang 2017-02-13",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "An AI Planning Solution to Scenario Generation for Enterprise Risk Management",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/11304",
+      "authors": "Shirin Sohrabi, Anton Riabov, Michael Katz, Octavian Udrea 2018-04-25",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Risk Based Optimization for Improving Emergency Medical Systems",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/9238",
+      "authors": "Sandhya Saisubramanian, Pradeep Varakantham, Hoong Chuin Lau 2015-02-10",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Risk-Aware Planning: Methods and Case Study on Safe Driving Route",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/19099",
+      "authors": "John Krumm, Eric Horvitz 4708-4714 2017-02-11",
+      "matched_keyword": "risk management"
+    },
+    {
+      "title": "Exploring the Contribution of Unlabeled Data in Financial Sentiment Analysis",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/8459",
+      "authors": "Jimmy Ren, Wei Wang, Jiawei Wang, Stephen Liao 1149-1155 2013-06-29",
+      "matched_keyword": "financial sentiment"
+    },
+    {
+      "title": "FRIDAYS: A Financial Risk Information Detecting and Analyzing System",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/5064",
+      "authors": "Chi-Han Du, Yi-Shyuan Chiang, Kun-Che Tsai, Liang-Chih Liu, Ming-Feng Tsai, Chuan-Ju Wang 9853-9854 2019-07-17",
+      "matched_keyword": "financial sentiment"
+    },
+    {
+      "title": "Semantics-Preserving Adversarial Attacks on Event-Driven Stock Prediction Models",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/41099",
+      "authors": "Aofan Liu, Haoxuan Li, Hongjian Xing, Yuguo Yin, Zijun Li, Yiyan Qi 37645-37653 2026-03-14",
+      "matched_keyword": "FinBERT"
+    }
+  ]
+}
