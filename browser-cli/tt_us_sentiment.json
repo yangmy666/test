@@ -1,0 +1,669 @@
+{
+  "total_videos": 10,
+  "total_main": 160,
+  "total_sub": 22,
+  "total": 182,
+  "total_likes": 454,
+  "cat_counts": {
+    "求助": 4,
+    "焦虑": 6,
+    "看多": 13,
+    "亏损": 9,
+    "看空": 7,
+    "嘲讽": 5,
+    "盈利": 9
+  },
+  "cat_likes": {
+    "求助": 49,
+    "焦虑": 24,
+    "看多": 40,
+    "亏损": 26,
+    "看空": 24,
+    "嘲讽": 6,
+    "盈利": 19
+  },
+  "ticker_counts": {
+    "期权/options": 7,
+    "SPY/S&P 500": 2,
+    "AI/人工智能": 2,
+    "AMZN": 2,
+    "AAPL / 苹果": 2,
+    "指数基金": 2,
+    "财报/Earnings": 2,
+    "黄金/gold": 1,
+    "美联储/Fed": 1,
+    "股息/dividend": 1,
+    "GOOG/GOOGL": 1
+  },
+  "ticker_likes": {
+    "黄金/gold": 2,
+    "SPY/S&P 500": 7,
+    "美联储/Fed": 8,
+    "期权/options": 13,
+    "AI/人工智能": 5,
+    "AMZN": 8,
+    "AAPL / 苹果": 0,
+    "指数基金": 2,
+    "股息/dividend": 1,
+    "财报/Earnings": 4,
+    "GOOG/GOOGL": 2
+  },
+  "per_video": [
+    {
+      "label": "#1 @tradingdata2 - The Secret to Drawing Trendlin",
+      "main": 53,
+      "sub": 10,
+      "cat_counts": {
+        "求助": 2,
+        "焦虑": 3,
+        "看多": 4,
+        "亏损": 3,
+        "看空": 1,
+        "嘲讽": 1,
+        "盈利": 1
+      }
+    },
+    {
+      "label": "#2 @jessicainskip - #tiktoklearningcampaign  The s",
+      "main": 27,
+      "sub": 0,
+      "cat_counts": {
+        "看多": 5,
+        "亏损": 2,
+        "盈利": 2,
+        "看空": 3,
+        "焦虑": 1,
+        "求助": 1
+      }
+    },
+    {
+      "label": "#3 @linhlatai - Buying the Dip? 5 Stocks You C",
+      "main": 22,
+      "sub": 7,
+      "cat_counts": {
+        "亏损": 2,
+        "看多": 2,
+        "盈利": 1,
+        "看空": 1
+      }
+    },
+    {
+      "label": "#4 @valueassettothemoon - NVDA เกินไปป่าวพี่ใหญ่ ยังจำได",
+      "main": 12,
+      "sub": 0,
+      "cat_counts": {}
+    },
+    {
+      "label": "#5 @saccofinancial - 🚨 Monday Market Outlook: 4/27/",
+      "main": 8,
+      "sub": 0,
+      "cat_counts": {
+        "嘲讽": 1,
+        "盈利": 1
+      }
+    },
+    {
+      "label": "#6 @calltoleap - These are the 3 investments I ",
+      "main": 19,
+      "sub": 0,
+      "cat_counts": {
+        "看多": 1,
+        "盈利": 1
+      }
+    },
+    {
+      "label": "#7 @kristenzisek - The stock market just hit a ne",
+      "main": 4,
+      "sub": 4,
+      "cat_counts": {
+        "盈利": 3,
+        "看多": 1,
+        "看空": 1,
+        "焦虑": 1,
+        "嘲讽": 1,
+        "亏损": 1,
+        "求助": 1
+      }
+    },
+    {
+      "label": "#8 @thepatelinvestor - Checkout link in bio for full ",
+      "main": 4,
+      "sub": 0,
+      "cat_counts": {}
+    },
+    {
+      "label": "#9 @tradeinvestsimplify - Should you invest before earni",
+      "main": 8,
+      "sub": 2,
+      "cat_counts": {
+        "看空": 1,
+        "焦虑": 1,
+        "嘲讽": 1,
+        "亏损": 1
+      }
+    },
+    {
+      "label": "#10 @theleungway - April 27th - Busy week in mark",
+      "main": 6,
+      "sub": 0,
+      "cat_counts": {
+        "嘲讽": 1
+      }
+    }
+  ],
+  "top_liked": [
+    {
+      "likes": 42,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "What timeframe should I draw my trendlines?",
+      "is_sub": false
+    },
+    {
+      "likes": 38,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "I really like the Jess' way to explain this topics",
+      "is_sub": false
+    },
+    {
+      "likes": 15,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "4H and entry 15Min",
+      "is_sub": true
+    },
+    {
+      "likes": 14,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Manipulated and inflated",
+      "is_sub": false
+    },
+    {
+      "likes": 14,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Great summary",
+      "is_sub": false
+    },
+    {
+      "likes": 11,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "[贴纸] thanks",
+      "is_sub": false
+    },
+    {
+      "likes": 10,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "how do I best deal with my emotions (fear, greed). I find myself analysing the market well with 80% accuracy but most times fear doesn't let me enter trades after analysis and sometimes I close trades too early out of fear.",
+      "is_sub": false
+    },
+    {
+      "likes": 8,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "ionq jessica. buy it thank me later",
+      "is_sub": false
+    },
+    {
+      "likes": 8,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Market has run too far ahead imho. Yes new fed chair will be instated. 3 big issues I see are that oil prices and its short to medium supply will continue to pressure higher. 2nd is Warsh is classically more conservative and is not a huge proponent of lowering rates. And 3rd Iran's supreme leader lost his father and his wife/child to this conflict, honestly not so sure they will just let that go. So I am going to be getting some puts here and there to hedge.",
+      "is_sub": false
+    },
+    {
+      "likes": 8,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Imo the two and ten year are only gonna come down if we see the price of oil reduce. Let’s see how long the equity market can look through this for",
+      "is_sub": false
+    },
+    {
+      "likes": 8,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Great analysis, thank you, Jess!",
+      "is_sub": false
+    },
+    {
+      "likes": 7,
+      "label": "#3 @linhlatai - Buying the Dip",
+      "author": "",
+      "text": "fortrank.shop try it brother",
+      "is_sub": true
+    },
+    {
+      "likes": 7,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "thank you for your awesome content, i can see a lot of effort went into this to make the narrative and logic clear and easily understood",
+      "is_sub": false
+    },
+    {
+      "likes": 7,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Very good content",
+      "is_sub": false
+    },
+    {
+      "likes": 7,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Real rates are likely heading south. This shd add fuel to the rally.",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#5 @saccofinancial - 🚨 Monday ",
+      "author": "",
+      "text": "I told u the market will recover by the summer 😁😁😁",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#3 @linhlatai - Buying the Dip",
+      "author": "",
+      "text": "amazon at all time highs currently?",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#3 @linhlatai - Buying the Dip",
+      "author": "",
+      "text": "DEFT",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "i admire how structured your understanding of finance and financial markets is. i need to have that one day. can we talk? and can you guide? thanks.",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Your videos are always informational and straight up. Thank you for sharing and not gate keeping !!! 🙏🏽🙏🏽",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "What is threat of Claude",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "What about the companies that publish reports next week? Will the price of the Sp500 go up more?",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Jess is the boss 👏👏😁👏👏",
+      "is_sub": false
+    },
+    {
+      "likes": 6,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Is shorting Brent oil and holding for a few months a good play?",
+      "is_sub": false
+    },
+    {
+      "likes": 5,
+      "label": "#5 @saccofinancial - 🚨 Monday ",
+      "author": "",
+      "text": "Best Coach @Nathaniel Grant Fx",
+      "is_sub": false
+    },
+    {
+      "likes": 5,
+      "label": "#3 @linhlatai - Buying the Dip",
+      "author": "",
+      "text": "What are the other two",
+      "is_sub": false
+    },
+    {
+      "likes": 5,
+      "label": "#3 @linhlatai - Buying the Dip",
+      "author": "",
+      "text": "HUT 8. Bought at $5 now $105 4 years later. Aritzia. Bought during lock down $22 now $143.",
+      "is_sub": false
+    },
+    {
+      "likes": 5,
+      "label": "#3 @linhlatai - Buying the Dip",
+      "author": "",
+      "text": "Crcl need to come back over the 50",
+      "is_sub": false
+    },
+    {
+      "likes": 5,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "great summary 💯",
+      "is_sub": false
+    },
+    {
+      "likes": 5,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "Loving the explanation, thank you for all your valuable content!",
+      "is_sub": false
+    },
+    {
+      "likes": 5,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "First time seeing this account and this is such a well made and informative video",
+      "is_sub": false
+    },
+    {
+      "likes": 5,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "I don't use Trend lines",
+      "is_sub": false
+    },
+    {
+      "likes": 4,
+      "label": "#3 @linhlatai - Buying the Dip",
+      "author": "",
+      "text": "Mkt at all tine high?",
+      "is_sub": false
+    },
+    {
+      "likes": 4,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "This is the largest energy shock in history. Larger than the 70's oil embargo. It took 6 to 9 months for the effects to be fully realized in inflation and market correction for the nifty fifty. This is a bull trap. The AI market roi is completely gone with no helium. We are Wiley Coyote after he has already gone over the cliff but before he looks down.",
+      "is_sub": false
+    },
+    {
+      "likes": 4,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "what is the best time frame should I use to identify the trend",
+      "is_sub": false
+    },
+    {
+      "likes": 4,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "The best strategy ever",
+      "is_sub": false
+    },
+    {
+      "likes": 3,
+      "label": "#7 @kristenzisek - The stock m",
+      "author": "",
+      "text": "Thank you for great reporting!",
+      "is_sub": false
+    },
+    {
+      "likes": 3,
+      "label": "#2 @jessicainskip - #tiktoklea",
+      "author": "",
+      "text": "heyyy what do you think about IBRK (as european small investor looking to grow)",
+      "is_sub": false
+    },
+    {
+      "likes": 3,
+      "label": "#10 @theleungway - April 27th ",
+      "author": "",
+      "text": "Welcome to Korea! Thanks for the daily update!",
+      "is_sub": false
+    },
+    {
+      "likes": 3,
+      "label": "#10 @theleungway - April 27th ",
+      "author": "",
+      "text": "Big Week ahead. 👍👍👍",
+      "is_sub": false
+    },
+    {
+      "likes": 3,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "how long is this 😁",
+      "is_sub": false
+    },
+    {
+      "likes": 3,
+      "label": "#1 @tradingdata2 - The Secret ",
+      "author": "",
+      "text": "How to know if it break then retest or it continues (no retest)",
+      "is_sub": false
+    },
+    {
+      "likes": 2,
+      "label": "#8 @thepatelinvestor - Checkou",
+      "author": "",
+      "text": "Plan",
+      "is_sub": false
+    },
+    {
+      "likes": 2,
+      "label": "#8 @thepatelinvestor - Checkou",
+      "author": "",
+      "text": "People like you are the reason why the world is better loved I appreciate your kind gesture @Katina Trades",
+      "is_sub": false
+    },
+    {
+      "likes": 2,
+      "label": "#7 @kristenzisek - The stock m",
+      "author": "",
+      "text": "Kristen is great! Guides us to the light!",
+      "is_sub": false
+    },
+    {
+      "likes": 2,
+      "label": "#7 @kristenzisek - The stock m",
+      "author": "",
+      "text": "How do we prepare to capitalize on earnings this week? Any practical tips?",
+      "is_sub": false
+    },
+    {
+      "likes": 2,
+      "label": "#7 @kristenzisek - The stock m",
+      "author": "",
+      "text": "Depends on what your goal is! First — don’t chase. If a stock is already up big going into earnings, expectations are high, and that’s risky IMO. Second — know what’s priced in. The options market is literally telling you the expected move. If the stock doesn’t beat that, you can still lose money… even if the company does well. Look at the implied earnings moves. Third — think about how much upside is actually left. A lot of these big names — like Alphabet or Amazon — some of them are already near all-time highs or up a lot in the past six months. So you have to ask… how much higher can they really go short-term? Maybe a lot, who knows? But something I’m thinking about. Fourth — separate short-term trades from long-term investing. I might love a company long-term — like I own Alphabet — but that doesn’t mean I’m adding right before earnings. Those are two different decisions. And finally — if you’re going to play earnings, I personally treat that as risk capital only. Money you can afford to lose, and money you don’t need for years. Cause anything can happen! If I’m taking a big swing during earnings (AKA doing something stupid! Which I do from time to time 😊), I’d generally rather do it in something with real upside potential — not necessarily a mega-cap that might move 3–5%. Again, only using money I’m comfortable losing! Earnings can be an opportunity — but they’re not a strategy.",
+      "is_sub": true
+    },
+    {
+      "likes": 2,
+      "label": "#6 @calltoleap - These are the",
+      "author": "",
+      "text": "thank you for sharing",
+      "is_sub": false
+    },
+    {
+      "likes": 2,
+      "label": "#6 @calltoleap - These are the",
+      "author": "",
+      "text": "lowkey the scariest thing is tetreum still feels early and thats why im in",
+      "is_sub": false
+    },
+    {
+      "likes": 2,
+      "label": "#6 @calltoleap - These are the",
+      "author": "",
+      "text": "i put in $600 and then I started making good figures with Garcia skills. $7,200 profits I’m impressed by the work ‘of@Garcia Lizeth",
+      "is_sub": false
+    }
+  ],
+  "bullish_top": [
+    {
+      "likes": 8,
+      "author": "",
+      "text": "Imo the two and ten year are only gonna come down if we see the price of oil reduce. Let’s see how long the equity market can look through this for"
+    },
+    {
+      "likes": 7,
+      "author": "",
+      "text": "Real rates are likely heading south. This shd add fuel to the rally."
+    },
+    {
+      "likes": 6,
+      "author": "",
+      "text": "Is shorting Brent oil and holding for a few months a good play?"
+    },
+    {
+      "likes": 5,
+      "author": "",
+      "text": "great summary 💯"
+    },
+    {
+      "likes": 3,
+      "author": "",
+      "text": "how long is this 😁"
+    },
+    {
+      "likes": 3,
+      "author": "",
+      "text": "heyyy what do you think about IBRK (as european small investor looking to grow)"
+    },
+    {
+      "likes": 2,
+      "author": "",
+      "text": "Get ready to buy POET dip!"
+    },
+    {
+      "likes": 2,
+      "author": "",
+      "text": "Do you ever run out of Money 💰"
+    },
+    {
+      "likes": 2,
+      "author": "",
+      "text": "Depends on what your goal is! First — don’t chase. If a stock is already up big going into earnings, expectations are high, and that’s risky IMO. Second — know what’s priced in. The options market is literally telling you the expected move. If the stock doesn’t beat that, you can still lose money… even if the company does well. Look at the implied earnings moves. Third — think about how much upside is actually left. A lot of these big names — like Alphabet or Amazon — some of them are already near all-time highs or up a lot in the past six months. So you have to ask… how much higher can they really go short-term? Maybe a lot, who knows? But something I’m thinking about. Fourth — separate short-term trades from long-term investing. I might love a company long-term — like I own Alphabet — but that doesn’t mean I’m adding right before earnings. Those are two different decisions. And finally — if you’re going to play earnings, I personally treat that as risk capital only. Money you can afford to lose, and money you don’t need for years. Cause anything can happen! If I’m taking a big swing during earnings (AKA doing something stupid! Which I do from time to time 😊), I’d generally rather do it in something with real upside potential — not necessarily a mega-cap that might move 3–5%. Again, only using money I’m comfortable losing! Earnings can be an opportunity — but they’re not a strategy."
+    },
+    {
+      "likes": 1,
+      "author": "",
+      "text": "💯💯💯"
+    },
+    {
+      "likes": 1,
+      "author": "",
+      "text": "You will always hold a special ❤️spot in my heart because of your kindness @Steve J Conley"
+    },
+    {
+      "likes": 0,
+      "author": "",
+      "text": "🔥🔥🔥"
+    },
+    {
+      "likes": 0,
+      "author": "",
+      "text": "They use it alongside others confluences"
+    }
+  ],
+  "bearish_top": [
+    {
+      "likes": 8,
+      "author": "",
+      "text": "Market has run too far ahead imho. Yes new fed chair will be instated. 3 big issues I see are that oil prices and its short to medium supply will continue to pressure higher. 2nd is Warsh is classically more conservative and is not a huge proponent of lowering rates. And 3rd Iran's supreme leader lost his father and his wife/child to this conflict, honestly not so sure they will just let that go. So I am going to be getting some puts here and there to hedge."
+    },
+    {
+      "likes": 6,
+      "author": "",
+      "text": "Is shorting Brent oil and holding for a few months a good play?"
+    },
+    {
+      "likes": 4,
+      "author": "",
+      "text": "This is the largest energy shock in history. Larger than the 70's oil embargo. It took 6 to 9 months for the effects to be fully realized in inflation and market correction for the nifty fifty. This is a bull trap. The AI market roi is completely gone with no helium. We are Wiley Coyote after he has already gone over the cliff but before he looks down."
+    },
+    {
+      "likes": 2,
+      "author": "",
+      "text": "Get ready to buy POET dip!"
+    },
+    {
+      "likes": 2,
+      "author": "",
+      "text": "Depends on what your goal is! First — don’t chase. If a stock is already up big going into earnings, expectations are high, and that’s risky IMO. Second — know what’s priced in. The options market is literally telling you the expected move. If the stock doesn’t beat that, you can still lose money… even if the company does well. Look at the implied earnings moves. Third — think about how much upside is actually left. A lot of these big names — like Alphabet or Amazon — some of them are already near all-time highs or up a lot in the past six months. So you have to ask… how much higher can they really go short-term? Maybe a lot, who knows? But something I’m thinking about. Fourth — separate short-term trades from long-term investing. I might love a company long-term — like I own Alphabet — but that doesn’t mean I’m adding right before earnings. Those are two different decisions. And finally — if you’re going to play earnings, I personally treat that as risk capital only. Money you can afford to lose, and money you don’t need for years. Cause anything can happen! If I’m taking a big swing during earnings (AKA doing something stupid! Which I do from time to time 😊), I’d generally rather do it in something with real upside potential — not necessarily a mega-cap that might move 3–5%. Again, only using money I’m comfortable losing! Earnings can be an opportunity — but they’re not a strategy."
+    },
+    {
+      "likes": 1,
+      "author": "",
+      "text": "Most people aren't unlucky they gamble on the market while insiders they engineer the whole thing. Buy low at launch, control the supply, pay for shills, and dump on the peak. It’s actually way easier than it looks from the outside. I’ve been averaging consistent five-figure weeks by spotting these setups. If you’re tired of losing, YKYK😭😭😂😂😂"
+    },
+    {
+      "likes": 1,
+      "author": "",
+      "text": "Ascending channel is bearish, this first example was executed wrong lol"
+    }
+  ],
+  "anxious_top": [
+    {
+      "likes": 10,
+      "author": "",
+      "text": "how do I best deal with my emotions (fear, greed). I find myself analysing the market well with 80% accuracy but most times fear doesn't let me enter trades after analysis and sometimes I close trades too early out of fear."
+    },
+    {
+      "likes": 8,
+      "author": "",
+      "text": "Market has run too far ahead imho. Yes new fed chair will be instated. 3 big issues I see are that oil prices and its short to medium supply will continue to pressure higher. 2nd is Warsh is classically more conservative and is not a huge proponent of lowering rates. And 3rd Iran's supreme leader lost his father and his wife/child to this conflict, honestly not so sure they will just let that go. So I am going to be getting some puts here and there to hedge."
+    },
+    {
+      "likes": 2,
+      "author": "",
+      "text": "i think sometimes is cuz of account balance....if it's too small ,fear tends to rule"
+    },
+    {
+      "likes": 2,
+      "author": "",
+      "text": "Depends on what your goal is! First — don’t chase. If a stock is already up big going into earnings, expectations are high, and that’s risky IMO. Second — know what’s priced in. The options market is literally telling you the expected move. If the stock doesn’t beat that, you can still lose money… even if the company does well. Look at the implied earnings moves. Third — think about how much upside is actually left. A lot of these big names — like Alphabet or Amazon — some of them are already near all-time highs or up a lot in the past six months. So you have to ask… how much higher can they really go short-term? Maybe a lot, who knows? But something I’m thinking about. Fourth — separate short-term trades from long-term investing. I might love a company long-term — like I own Alphabet — but that doesn’t mean I’m adding right before earnings. Those are two different decisions. And finally — if you’re going to play earnings, I personally treat that as risk capital only. Money you can afford to lose, and money you don’t need for years. Cause anything can happen! If I’m taking a big swing during earnings (AKA doing something stupid! Which I do from time to time 😊), I’d generally rather do it in something with real upside potential — not necessarily a mega-cap that might move 3–5%. Again, only using money I’m comfortable losing! Earnings can be an opportunity — but they’re not a strategy."
+    },
+    {
+      "likes": 1,
+      "author": "",
+      "text": "Thanks for your help 👍"
+    },
+    {
+      "likes": 1,
+      "author": "",
+      "text": "Most people aren't unlucky they gamble on the market while insiders they engineer the whole thing. Buy low at launch, control the supply, pay for shills, and dump on the peak. It’s actually way easier than it looks from the outside. I’ve been averaging consistent five-figure weeks by spotting these setups. If you’re tired of losing, YKYK😭😭😂😂😂"
+    }
+  ],
+  "mocking_top": [
+    {
+      "likes": 2,
+      "author": "",
+      "text": "Was thinking of saying your looked exceptionally good today once I reached the end of the video only to hear about the photoshoot 😂"
+    },
+    {
+      "likes": 2,
+      "author": "",
+      "text": "Depends on what your goal is! First — don’t chase. If a stock is already up big going into earnings, expectations are high, and that’s risky IMO. Second — know what’s priced in. The options market is literally telling you the expected move. If the stock doesn’t beat that, you can still lose money… even if the company does well. Look at the implied earnings moves. Third — think about how much upside is actually left. A lot of these big names — like Alphabet or Amazon — some of them are already near all-time highs or up a lot in the past six months. So you have to ask… how much higher can they really go short-term? Maybe a lot, who knows? But something I’m thinking about. Fourth — separate short-term trades from long-term investing. I might love a company long-term — like I own Alphabet — but that doesn’t mean I’m adding right before earnings. Those are two different decisions. And finally — if you’re going to play earnings, I personally treat that as risk capital only. Money you can afford to lose, and money you don’t need for years. Cause anything can happen! If I’m taking a big swing during earnings (AKA doing something stupid! Which I do from time to time 😊), I’d generally rather do it in something with real upside potential — not necessarily a mega-cap that might move 3–5%. Again, only using money I’m comfortable losing! Earnings can be an opportunity — but they’re not a strategy."
+    },
+    {
+      "likes": 1,
+      "author": "",
+      "text": "😂😂😂"
+    },
+    {
+      "likes": 1,
+      "author": "",
+      "text": "Most people aren't unlucky they gamble on the market while insiders they engineer the whole thing. Buy low at launch, control the supply, pay for shills, and dump on the peak. It’s actually way easier than it looks from the outside. I’ve been averaging consistent five-figure weeks by spotting these setups. If you’re tired of losing, YKYK😭😭😂😂😂"
+    },
+    {
+      "likes": 0,
+      "author": "",
+      "text": "In every market, insiders operate with foresight studying liquidity pools, optimal timing, and compelling narratives before public sentiment shifts. The majority reacts to visible trends, but those who master the mechanics stop gambling and begin building consistent, substantial outcomes through strategy and discipline.😂🥰"
+    }
+  ]
+}

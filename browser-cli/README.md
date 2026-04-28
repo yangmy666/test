@@ -88,6 +88,20 @@ python connect.py
 | `yt_us_stocks.py` | 美股视频搜索 |
 | `yt_comments.py` | 评论抓取（含子回复） |
 
+### 🎵 TikTok（匿名可用）
+
+**通用工具**：
+
+| 文件 | 输入 → 输出 | 备注 |
+|---|---|---|
+| `tt_comments_full.py` | input.json → comments.json | **首选**：先点 `[data-e2e="comment-icon"]` 唤出评论侧栏，再滚动+真鼠标点"查看 N 条回复"展开子回复。匿名可用 |
+
+**主题脚本**：
+
+| 主题 | 搜索 | 筛选 | 情绪 |
+|---|---|---|---|
+| 美股（多语言）| `tt_us_search.py` | `tt_us_top10.py` | `tt_us_sentiment.py` |
+
 ### 🐦 X (Twitter)
 
 | 文件 | 作用 |
@@ -136,9 +150,19 @@ python connect.py
 8. **抖音展开子回复**：button 是 `button.comment-reply-expand-btn`，**JS click() 不触发 React 处理器**，必须用 `Playwright locator.click()` 真鼠标事件
 9. **B 站缓存数据 vs 实时**：去重时按 `(uname, content[:100])` 而不是 rpid——同一条评论会因 shadow DOM 多次访问出现 3 倍重复
 10. **DOM 深度文本提取要跳 STYLE/SCRIPT/SVG/BILI-AVATAR**，否则会把 CSS `:host {...}` 当文本
+11. **TikTok 视频自动播放完会 auto-advance 摧毁 page context**——进页面立刻 `document.querySelectorAll('video').forEach(v => v.pause())`
+12. **TikTok 评论需匿名也可看**——但要先点 `[data-e2e="comment-icon"]` 才唤出评论区
+13. **TikTok 评论文本在 `[data-e2e="comment-level-1"]` span**，作者/点赞要往上爬到 `DivCommentItemWrapper` 容器
+14. **TikTok 搜索用 API 抓包**（监听 `/api/search/`）才能拿全量元数据，单纯 DOM 卡片只显示数字（视频观看数）
+
+## 复用 / 沉淀状态
+
+- ✅ 已沉淀 Skill：`~/.claude/skills/social-sentiment/SKILL.md` —— 用户说"做 X 平台 + Y 主题情绪分析"会触发
+- ✅ 通用评论抓取器都已参数化：`bili_comments_full.py` / `dy_comments_full.py` / `tt_comments_full.py` 接 `<input.json> <output.json>`
+- 🟡 search/top10/sentiment 仍是每主题一份脚本（复制改 KEYWORDS/TICKERS）
 
 ## TODO
 
-- [ ] 把 `*_search.py` / `*_top10.py` / `*_sentiment.py` 重构成参数化 CLI，下次换主题不用编辑代码
+- [ ] 把 `*_search.py` / `*_top10.py` / `*_sentiment.py` 重构成参数化 CLI，关键词从 JSON 读
 - [ ] 抽出 `tickers/` 子目录存各主题的标的字典（a_stocks.json、us_stocks.json、crypto.json）
-- [ ] 抽出 `lexicons/` 子目录存通用情绪词典
+- [ ] 抽出 `lexicons/` 子目录存通用情绪词典（中英多语版）
